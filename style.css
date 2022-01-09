@@ -75,6 +75,12 @@ img{
         position:relative;
         
     }
+    h1{
+        font-size:4rem;
+    }
+    header{
+        margin-bottom:10rem;
+    }
     main{
         max-width:80%;
         margin:0 auto;
