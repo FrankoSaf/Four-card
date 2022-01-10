@@ -67,7 +67,7 @@ img{
     header p>span{
         display:block;
     }
-    main
+ 
     section{
         max-width:34rem;
         position:relative;
@@ -84,6 +84,7 @@ img{
     main{
         max-width:80%;
         margin:0 auto;
+        height:0;
     }
     .second{
         transform:translateY(calc(-100% - 2rem));
